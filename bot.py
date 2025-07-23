@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types, executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from tasks import tasks
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # <- встав сюди свій токен
+API_TOKEN = '7470253170:AAHX7NqY3L3H4pdCXVeDPsMXPvz8DM0_L70'  # <- встав сюди свій токен
 
 logging.basicConfig(level=logging.INFO)
 
